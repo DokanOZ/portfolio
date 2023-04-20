@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5bb8e6ee.css",
-    "main.js": "/portfolio/static/js/main.1962cf7a.js",
+    "main.css": "/portfolio/static/css/main.cb6abd3b.css",
+    "main.js": "/portfolio/static/js/main.f4b5c76e.js",
     "static/media/vpw.png": "/portfolio/static/media/vpw.2cd233bc01b94d11f363.png",
     "static/media/selligent.png": "/portfolio/static/media/selligent.e3512d06f245ae40165c.png",
+    "static/media/avi.png": "/portfolio/static/media/avi.dd15d3aa97692934f778.png",
     "static/media/avatar.svg": "/portfolio/static/media/avatar.add0966d1d63e70b7e86c104beeaa9f1.svg",
     "static/media/pxlesports.png": "/portfolio/static/media/pxlesports.4ac34dcb7f257cb98f1b.png",
     "static/media/site-bg.jpg": "/portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
-    "static/media/services.png": "/portfolio/static/media/services.8e66d4fbbd95de45b8db.png",
-    "static/media/about.png": "/portfolio/static/media/about.34da930ab4436bc41a33.png",
+    "static/media/services.png": "/portfolio/static/media/services.65c918a339d5585d244e.png",
+    "static/media/about.png": "/portfolio/static/media/about.0ab76cd68abc08f669ad.png",
     "index.html": "/portfolio/index.html",
-    "main.5bb8e6ee.css.map": "/portfolio/static/css/main.5bb8e6ee.css.map",
-    "main.1962cf7a.js.map": "/portfolio/static/js/main.1962cf7a.js.map"
+    "main.cb6abd3b.css.map": "/portfolio/static/css/main.cb6abd3b.css.map",
+    "main.f4b5c76e.js.map": "/portfolio/static/js/main.f4b5c76e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bb8e6ee.css",
-    "static/js/main.1962cf7a.js"
+    "static/css/main.cb6abd3b.css",
+    "static/js/main.f4b5c76e.js"
   ]
 }
