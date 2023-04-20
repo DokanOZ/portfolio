@@ -1,7 +1,7 @@
 import React from 'react';
 // images
 import Image2 from '../assets/avatar.svg';
-import Image from '../assets/avatar.png';
+import Image from '../assets/avi.png';
 // icons
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 // type animation
